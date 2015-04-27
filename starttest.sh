@@ -17,7 +17,7 @@ RUN curl -SL \
 
 tar xvfj /tmp/data.tar.bz2 -C /tmp
 
-git clone https://github.com/Unidata/idv-test
+git clone https://github.com/Unidata/idv-test ~/idv-test
 
 cp ~/idv-test/baseline/* ~/test-output/baseline
 

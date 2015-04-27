@@ -1,4 +1,4 @@
-FROM unidata:idv-gui
+FROM unidata/idv-gui
 
 ###
 # Install Python, pip, pyhiccup as root
@@ -26,3 +26,5 @@ USER idv
 RUN mkdir -p ~/test-output/results
 
 RUN mkdir ~/test-output/baseline
+
+WORKDIR /home/idv
