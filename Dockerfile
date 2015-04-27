@@ -6,7 +6,7 @@ FROM unidata/idv-gui
 
 USER root
 
-RUN apt-get install -y python python-imaging
+RUN apt-get install -y git python python-imaging
 
 RUN curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
 
@@ -26,5 +26,9 @@ USER idv
 RUN mkdir -p ~/test-output/results
 
 RUN mkdir ~/test-output/baseline
+
+COPY starttest.sh /home/idv/
+
+RUN git clone https://github.com/Unidata/idv-test ~/idv-test
 
 WORKDIR /home/idv

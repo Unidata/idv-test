@@ -11,17 +11,16 @@ curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/visad.ja
 curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/ncIdv.jar -o /home/idv/IDV/ncIdv.jar
 
 # Grab test data
-RUN curl -SL \
-   http://motherlode.ucar.edu/repository/entry/get/RAMADDA/IDV%20Community%20Resources/Test%20Data/data.tar.bz2?entryid=f024f354-6cca-45ba-aac5-e06143db5b54 \
-  -o /tmp/data.tar.bz2
+curl -SL http://motherlode.ucar.edu/repository/entry/get/RAMADDA/IDV%20Community%20Resources/Test%20Data/data.tar.bz2?entryid=f024f354-6cca-45ba-aac5-e06143db5b54 -o /tmp/data.tar.bz2
 
 tar xvfj /tmp/data.tar.bz2 -C /tmp
 
-git clone https://github.com/Unidata/idv-test ~/idv-test
+#update repo since Docker image file formation
+cd ~/idv-test && git pull && cd /home/idv
 
 cp ~/idv-test/baseline/* ~/test-output/baseline
 
-#/home/idv/IDV/testIDV ~/test-bundles/addeimage1.xidv ~/test-output/results
+#/home/idv/IDV/testIDV ~/idv-test/bundles/addeimage1.xidv ~/test-output/results
 
 for file in idv-test/bundles/* ; do
     echo TESTING $file
