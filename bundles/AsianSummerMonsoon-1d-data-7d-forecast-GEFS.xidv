@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<object class="java.util.Hashtable">
+<?xml version="1.0" encoding="UTF-8"?><object class="java.util.Hashtable">
     <method name="put">
         <string><![CDATA[datasources]]></string>
         <object class="java.util.ArrayList">
