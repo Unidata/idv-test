@@ -800,7 +800,7 @@
                     <property name="Sources">
                         <object class="java.util.ArrayList">
                             <method name="add">
-                                <string><![CDATA[dods://thredds.ucar.edu/thredds/dodsC/fmrc/NCEP/GFS/Global_0p5deg/NCEP-GFS-Global_0p5deg_best.ncd]]></string>
+                                <string><![CDATA[dods://thredds.ucar.edu/thredds/dodsC/grib/NCEP/GFS/Global_0p5deg/Best]]></string>
                             </method>
                         </object>
                     </property>

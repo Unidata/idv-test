@@ -10,7 +10,7 @@
                     <property name="Sources">
                         <object class="java.util.ArrayList">
                             <method name="add">
-                                <string><![CDATA[dods://thredds.ucar.edu/thredds/dodsC/fmrc/NCEP/GFS/Global_onedeg/NCEP-GFS-Global_onedeg_best.ncd]]></string>
+                                <string><![CDATA[dods://thredds.ucar.edu/thredds/dodsC/grib/NCEP/GFS/Global_onedeg/Best]]></string>
                             </method>
                         </object>
                     </property>
