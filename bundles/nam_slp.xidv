@@ -934,10 +934,10 @@
                     </object>
                   </property>
                   <property name="Description">
-                    <string><![CDATA[Mean Sea Level Pressure NAM Model Reduction @ Mean sea level]]></string>
+                    <string>Mean Sea Level Pressure NAM Model Reduction @ Mean sea level</string>
                   </property>
                   <property name="Id">
-                    <string><![CDATA[Mean_Sea_Level_Pressure_NAM_Model_Reduction_msl]]></string>
+                    <string>Mean_Sea_Level_Pressure_NAM_Model_Reduction_msl</string>
                   </property>
                   <property name="Categories">
                     <object class="java.util.ArrayList">

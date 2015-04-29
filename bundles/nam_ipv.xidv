@@ -601,10 +601,10 @@
                                     </object>
                                   </property>
                                   <property name="Description">
-                                    <string><![CDATA[Temperature @ isobaric]]></string>
+                                    <string>Temperature @ isobaric</string>
                                   </property>
                                   <property name="Id">
-                                    <string><![CDATA[Temperature_isobaric]]></string>
+                                    <string>Temperature_isobaric</string>
                                   </property>
                                   <property name="Categories">
                                     <object class="java.util.ArrayList">
