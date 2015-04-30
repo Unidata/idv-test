@@ -19,16 +19,10 @@ RUN pip install pyhiccup html5print Pillow
 
 USER idv
 
-###
-# Some directories to be used by the tests
-###
+ENV IDV_HOME /home/idv
 
-RUN mkdir -p ~/test-output/results
+COPY starttest.sh $IDV_HOME/
 
-RUN mkdir ~/test-output/baseline
+RUN git clone https://github.com/Unidata/idv-test $IDV_HOME/idv-test
 
-COPY starttest.sh /home/idv/
-
-RUN git clone https://github.com/Unidata/idv-test ~/idv-test
-
-WORKDIR /home/idv
+WORKDIR $IDV_HOME
