@@ -1,5 +1,17 @@
 #!/bin/bash
 
+if [ $# -gt 1 ]
+then
+    echo "Syntax: $(basename $0) <optional git testing branch>"
+    exit 1
+fi
+
+branch="master"
+if [ $# -eq 1 ]
+then
+    branch=$1
+fi
+
 xinit -- /usr/bin/Xvfb :1 -screen 0 $SIZEH\x$SIZEW\x$CDEPTH &
 sleep 5
 export DISPLAY=localhost:1 
@@ -16,7 +28,7 @@ curl -SL http://motherlode.ucar.edu/repository/entry/get/RAMADDA/IDV%20Community
 tar xvfj /tmp/data.tar.bz2 -C /tmp
 
 #update repo since Docker image file formation
-cd ~/idv-test && git pull && cd /home/idv
+cd ~/idv-test && git pull && git checkout $branch && cd /home/idv
 
 cp ~/idv-test/baseline/* ~/test-output/baseline
 
