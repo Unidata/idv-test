@@ -14,7 +14,11 @@ RUN python get-pip.py
 
 RUN pip install --upgrade pip
 
-# A couple of Python HTML conveniences for generating HTML output
+###
+# A couple of Python HTML conveniences for generating HTML output. Pillow is
+# for image manipulation.
+###
+
 RUN pip install pyhiccup html5print Pillow
 
 USER idv

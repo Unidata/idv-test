@@ -23,4 +23,4 @@ if [ ! -d $b ]; then
     mkdir -p $b
 fi
 
-docker run -v ~/temp:/home/idv/test-output -p 5901:5901 --rm -it idv-test bash -c "/home/idv/starttest.sh master"
+docker run -v ~/temp:/home/idv -p 5901:5901 --rm -it idv-test bash -c "/home/idv/starttest.sh master"
