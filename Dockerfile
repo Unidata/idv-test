@@ -6,7 +6,7 @@ FROM unidata/idv-gui
 
 USER root
 
-RUN apt-get install -y git python python-imaging
+RUN apt-get update && apt-get install -y git python python-imaging
 
 RUN curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
 

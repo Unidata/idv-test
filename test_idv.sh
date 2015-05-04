@@ -18,4 +18,4 @@ if [ ! -d $d ]; then
     mkdir -p $d
 fi
 
-docker run -v $d:/home/idv -p 5901:5901 --rm -it idv-test bash -c "/home/idv/starttest.sh master"
+docker run -v $d:/home/idv/test-output -p 5901:5901 --rm -it unidata/idv-test bash -c "/home/idv/starttest.sh master"
