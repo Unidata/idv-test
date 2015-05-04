@@ -12,15 +12,10 @@ fi
 
 set -x
 
-r=$1/results
-b=$1/baseline
+d=$1
 
-if [ ! -d $r ]; then
-    mkdir -p $r
+if [ ! -d $d ]; then
+    mkdir -p $d
 fi
 
-if [ ! -d $b ]; then
-    mkdir -p $b
-fi
-
-docker run -v ~/temp:/home/idv -p 5901:5901 --rm -it idv-test bash -c "/home/idv/starttest.sh master"
+docker run -v $d:/home/idv -p 5901:5901 --rm -it idv-test bash -c "/home/idv/starttest.sh master"
