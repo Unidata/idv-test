@@ -38,7 +38,7 @@ cd $IDV_HOME/idv-test && git pull && git checkout $branch && cd $IDV_HOME
 
 mkdir -p $IDV_HOME/test-output/results
 
-mkdir $IDV_HOME/test-output/baseline
+mkdir -p $IDV_HOME/test-output/baseline
 
 cp $IDV_HOME/idv-test/baseline/* $IDV_HOME/test-output/baseline
 
