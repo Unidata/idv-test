@@ -3528,7 +3528,7 @@
                                     <object idref="id13"/>
                                   </property>
                                   <property name="Name">
-                                    <string>Large-scale_precipitation_non-convective_surface_Mixed_intervals_Accumulation</string>
+                                    <string>Large-scale_precipitation_non-convective_surface_1_Hour_Accumulation</string>
                                   </property>
                                   <property name="Properties">
                                     <object class="java.util.Hashtable">
@@ -3592,7 +3592,7 @@
                                     </object>
                                   </property>
                                   <property name="Id">
-                                    <string>Large-scale_precipitation_non-convective_surface_Mixed_intervals_Accumulation</string>
+                                    <string>Large-scale_precipitation_non-convective_surface_1_Hour_Accumulation</string>
                                   </property>
                                   <property name="Description">
                                     <string>Large-scale precipitation (non-convective) (Mixed_intervals Accumulation) @ Ground or water surface</string>
@@ -3612,7 +3612,7 @@
                                       <method name="add">
                                         <object class="ucar.unidata.data.DataCategory" id="id342">
                                           <property name="Name">
-                                            <string>param:Large-scale_precipitation_non-convective_surface_Mixed_intervals_Accumulation</string>
+                                            <string>param:Large-scale_precipitation_non-convective_surface_1_Hour_Accumulation</string>
                                           </property>
                                           <property name="ForDisplay">
                                             <boolean>false</boolean>
@@ -4763,7 +4763,7 @@
                                     <object idref="id13"/>
                                   </property>
                                   <property name="Name">
-                                    <string>Large-scale_precipitation_non-convective_surface_Mixed_intervals_Accumulation</string>
+                                    <string>Large-scale_precipitation_non-convective_surface_1_Hour_Accumulation</string>
                                   </property>
                                   <property name="Properties">
                                     <object class="java.util.Hashtable">
@@ -4790,7 +4790,7 @@
                                     </object>
                                   </property>
                                   <property name="Id">
-                                    <string>Large-scale_precipitation_non-convective_surface_Mixed_intervals_Accumulation</string>
+                                    <string>Large-scale_precipitation_non-convective_surface_1_Hour_Accumulation</string>
                                   </property>
                                   <property name="Description">
                                     <string>Large-scale precipitation (non-convective) (Mixed_intervals Accumulation) @ Ground or water surface</string>
