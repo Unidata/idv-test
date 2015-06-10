@@ -25,6 +25,7 @@ export DISPLAY=localhost:1
 curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/idv.jar -o $IDV_HOME/IDV/idv.jar
 curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/visad.jar -o $IDV_HOME/IDV/visad.jar
 curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/ncIdv.jar -o $IDV_HOME/IDV/ncIdv.jar
+curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/external.jar -o $IDV_HOME/IDV/external.jar
 
 # Grab test data
 curl -SL http://motherlode.ucar.edu/repository/entry/get/RAMADDA/IDV%20Community%20Resources/Test%20Data/data.tar.bz2?entryid=f024f354-6cca-45ba-aac5-e06143db5b54 -o /tmp/data.tar.bz2
