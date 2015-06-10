@@ -21,10 +21,12 @@ RUN pip install --upgrade pip
 
 RUN pip install pyhiccup html5print Pillow
 
-USER idv
-
 COPY starttest.sh /home/idv/
 
 RUN git clone https://github.com/Unidata/idv-test /home/idv/idv-test
 
 WORKDIR /home/idv 
+
+RUN chown -R idv:idv /home/idv/
+
+USER idv
