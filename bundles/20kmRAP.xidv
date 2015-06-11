@@ -3385,7 +3385,7 @@
                                     <object idref="id13"/>
                                   </property>
                                   <property name="Name">
-                                    <string>Convective_precipitation_surface_Mixed_intervals_Accumulation</string>
+                                    <string>Convective_precipitation_surface_1_Hour_Accumulation</string>
                                   </property>
                                   <property name="Properties">
                                     <object class="java.util.Hashtable">
@@ -3451,7 +3451,7 @@
                                     </object>
                                   </property>
                                   <property name="Id">
-                                    <string>Convective_precipitation_surface_Mixed_intervals_Accumulation</string>
+                                    <string>Convective_precipitation_surface_1_Hour_Accumulation</string>
                                   </property>
                                   <property name="Description">
                                     <string>Convective precipitation (Mixed_intervals Accumulation) @ Ground or water surface</string>
@@ -3492,7 +3492,7 @@
                                       <method name="add">
                                         <object class="ucar.unidata.data.DataCategory" id="id329">
                                           <property name="Name">
-                                            <string>param:Convective_precipitation_surface_Mixed_intervals_Accumulation</string>
+                                            <string>param:Convective_precipitation_surface_1_Hour_Accumulation</string>
                                           </property>
                                           <property name="ForDisplay">
                                             <boolean>false</boolean>
@@ -4691,7 +4691,7 @@
                                     <object idref="id13"/>
                                   </property>
                                   <property name="Name">
-                                    <string>Convective_precipitation_surface_Mixed_intervals_Accumulation</string>
+                                    <string>Convective_precipitation_surface_1_Hour_Accumulation</string>
                                   </property>
                                   <property name="Properties">
                                     <object class="java.util.Hashtable">
@@ -4718,7 +4718,7 @@
                                     </object>
                                   </property>
                                   <property name="Id">
-                                    <string>Convective_precipitation_surface_Mixed_intervals_Accumulation</string>
+                                    <string>Convective_precipitation_surface_1_Hour_Accumulation</string>
                                   </property>
                                   <property name="Description">
                                     <string>Convective precipitation (Mixed_intervals Accumulation) @ Ground or water surface</string>
