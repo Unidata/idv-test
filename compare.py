@@ -5,6 +5,7 @@ from os import listdir
 from os.path import isfile, join, splitext, basename
 from PIL import ImageChops
 from PIL import Image
+from time import gmtime, strftime
 
 IDV_PATH = "/home/idv/"
 TEST_PATH = IDV_PATH + "test-output/"
@@ -55,7 +56,8 @@ baseline = [(f,
 sortimgs = sorted(baseline, key=lambda img: img[2][0][2])
 
 
-data = [[
+data = [['h1',strftime("%Y-%m-%d %H:%M:%S", gmtime())],
+        [[
         ['hr'],
         ['h1', x[0]],
         ['table',
@@ -65,7 +67,7 @@ data = [[
           [['td', ['img', {'src': i[0]}]],
            ['td', ['img', {'src': i[1]}]]]]
              for i in x[2]]]]
-        for x in sortimgs[::-1]]
+        for x in sortimgs[::-1]]]
 
 myhtml = html(data)
 
