@@ -1,0 +1,5 @@
+idv-test:
+  image: unidata/idv-test:latest
+  container_name: idv-test
+  volumes:
+    - ./test-output:/home/stream/test-output
