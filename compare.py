@@ -1,16 +1,15 @@
 import math
 from pyhiccup.core import html
 from html5print import HTMLBeautifier
-from os import listdir
+from os import listdir, environ
 from os.path import isfile, join, splitext, basename
-from PIL import ImageChops
-from PIL import Image
+from PIL import ImageChops, Image
 from time import gmtime, strftime
 
-IDV_PATH = "/home/idv/"
-TEST_PATH = IDV_PATH + "test-output/"
-BUNDLE_PATH = IDV_PATH + "idv-test/bundles/"
-BASE_PATH = IDV_PATH + "test-output/baseline/"
+IDV_PATH = environ['HOME']
+TEST_PATH = IDV_PATH + "/test-output/"
+BUNDLE_PATH = IDV_PATH + "/idv-test/bundles/"
+BASE_PATH = IDV_PATH + "/test-output/baseline/"
 
 
 # http://code.activestate.com/recipes/577630-comparing-two-images/
