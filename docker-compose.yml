@@ -1,5 +1,20 @@
-idv-test:
-  image: unidata/idv-test:latest
-  container_name: idv-test
-  volumes:
-    - ./test-output:/home/stream/test-output
+###
+# IDV Test
+###
+
+version: '3'
+
+services:
+  idv-test:
+    image: unidata/idv-test:latest
+    container_name: idv-test
+    volumes:
+      - ./test-output:/home/stream/test-output
+  web:
+    image: nginx
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+      - ./logs/nginx:/var/log/nginx
+      - ./test-output/:/usr/share/nginx/html:ro
+    ports:
+      - "80:80"
