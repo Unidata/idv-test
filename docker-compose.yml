@@ -10,6 +10,8 @@ services:
     container_name: idv-test
     volumes:
       - ./test-output:/home/stream/test-output
+    env_file:
+      - "compose.env"
   web:
     image: nginx
     volumes:

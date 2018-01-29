@@ -10,7 +10,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/grib/NCEP/RAP/CONUS_20km/files/RR_CONUS_20km_20140604_1200.grib2</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/RAP/CONUS_20km/files/RR_CONUS_20km_20140604_1200.grib2</string>
               </method>
             </object>
           </property>
@@ -45,7 +45,7 @@
             <object class="java.util.Hashtable">
               <method name="put">
                 <string>RESOLVERURL</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/RAP/CONUS_20km/files/latest.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/RAP/CONUS_20km/files/latest.xml</string>
               </method>
               <method name="put">
                 <string>name</string>
@@ -69,7 +69,7 @@
               </method>
               <method name="put">
                 <string>prop.service.http</string>
-                <string>http://thredds.ucar.edu/thredds/fileServer/grib/NCEP/RAP/CONUS_20km/files/RR_CONUS_20km_20140604_1200.grib2</string>
+                <string>http://THREDDS-DOMAIN/thredds/fileServer/grib/NCEP/RAP/CONUS_20km/files/RR_CONUS_20km_20140604_1200.grib2</string>
               </method>
               <method name="put">
                 <string>Thredds.CatalogUrl</string>

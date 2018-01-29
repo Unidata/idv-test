@@ -7,94 +7,94 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_2023.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_2023.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_2017.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_2017.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_2012.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_2012.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_2006.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_2006.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_2000.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_2000.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1954.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1954.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1948.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1948.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1942.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1942.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1937.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1937.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1931.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1931.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1925.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1925.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1919.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1919.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1913.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1913.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1907.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1907.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1900.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1900.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1854.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1854.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1848.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1848.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1842.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1842.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1836.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1836.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1830.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1830.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1825.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1825.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1819.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1819.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1813.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1813.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1807.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1807.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1801.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1801.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1756.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1756.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1750.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1750.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1744.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1744.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1738.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1738.nids</string>
               </method>
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1732.nids</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/IDD/N0R/GYX/20140606/Level3_GYX_N0R_20140606_1732.nids</string>
               </method>
             </object>
           </property>
@@ -247,7 +247,7 @@
                     </object>
                   </property>
                   <property name="CollectionUrl">
-                    <string>http://thredds.ucar.edu/thredds/radarServer/nexrad/level3/IDD/dataset.xml</string>
+                    <string>http://THREDDS-DOMAIN/thredds/radarServer/nexrad/level3/IDD/dataset.xml</string>
                   </property>
                   <property name="Product">
                     <string>N0R</string>

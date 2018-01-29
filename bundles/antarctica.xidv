@@ -3901,7 +3901,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>dods://thredds.ucar.edu/thredds/dodsC/grib/NCEP/GFS/Global_0p5deg/Best</string>
+                <string>dods://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/GFS/Global_0p5deg/Best</string>
               </method>
             </object>
           </property>

@@ -7,7 +7,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/casestudies/idvtest/grids/small_ruc_grid.nc</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/casestudies/idvtest/grids/small_ruc_grid.nc</string>
               </method>
             </object>
           </property>
@@ -60,7 +60,7 @@
               <property name="FilePaths">
                 <object class="java.util.ArrayList">
                   <method name="add">
-                    <string>http://thredds.ucar.edu/thredds/dodsC/casestudies/idvtest/grids/small_ruc_grid.nc</string>
+                    <string>http://THREDDS-DOMAIN/thredds/dodsC/casestudies/idvtest/grids/small_ruc_grid.nc</string>
                   </method>
                 </object>
               </property>

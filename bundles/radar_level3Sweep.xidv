@@ -7,7 +7,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/CCS039/DVN/BREF1/dmurr16472_BREF1_980629_2258</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/CCS039/DVN/BREF1/dmurr16472_BREF1_980629_2258</string>
               </method>
             </object>
           </property>
@@ -84,7 +84,7 @@
                     </object>
                   </property>
                   <property name="CollectionUrl">
-                    <string>http://thredds.ucar.edu/thredds/radarServer/nexrad/level3/CCS039/dataset.xml</string>
+                    <string>http://THREDDS-DOMAIN/thredds/radarServer/nexrad/level3/CCS039/dataset.xml</string>
                   </property>
                   <property name="Product">
                     <string>BREF1</string>
@@ -206,7 +206,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/CCS039/DMX/BREF1/dmurr20063BREF1_980629_1821</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/CCS039/DMX/BREF1/dmurr20063BREF1_980629_1821</string>
               </method>
             </object>
           </property>
@@ -261,7 +261,7 @@
                     </object>
                   </property>
                   <property name="CollectionUrl">
-                    <string>http://thredds.ucar.edu/thredds/radarServer/nexrad/level3/CCS039/dataset.xml</string>
+                    <string>http://THREDDS-DOMAIN/thredds/radarServer/nexrad/level3/CCS039/dataset.xml</string>
                   </property>
                   <property name="Product">
                     <string>BREF1</string>
@@ -330,7 +330,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/nexrad/level3/CCS039/DVN/BREF1/dmurr16472_BREF1_980629_2217</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/nexrad/level3/CCS039/DVN/BREF1/dmurr16472_BREF1_980629_2217</string>
               </method>
             </object>
           </property>
@@ -385,7 +385,7 @@
                     </object>
                   </property>
                   <property name="CollectionUrl">
-                    <string>http://thredds.ucar.edu/thredds/radarServer/nexrad/level3/CCS039/dataset.xml</string>
+                    <string>http://THREDDS-DOMAIN/thredds/radarServer/nexrad/level3/CCS039/dataset.xml</string>
                   </property>
                   <property name="Product">
                     <string>BREF1</string>
