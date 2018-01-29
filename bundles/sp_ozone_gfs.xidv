@@ -800,7 +800,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>dods://thredds.ucar.edu/thredds/dodsC/grib/NCEP/GFS/Global_0p5deg/Best</string>
+                <string>dods://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/GFS/Global_0p5deg/Best</string>
               </method>
             </object>
           </property>
@@ -847,7 +847,7 @@
               </method>
               <method name="put">
                 <string>idv.chooser.url</string>
-                <string>http://thredds.ucar.edu/thredds/catalog.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog.xml</string>
               </method>
               <method name="put">
                 <string>prop.chooserclassname</string>
@@ -867,7 +867,7 @@
               </method>
               <method name="put">
                 <string>Thredds.CatalogUrl</string>
-                <string>http://thredds.ucar.edu/thredds/catalog.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog.xml</string>
               </method>
             </object>
           </property>

@@ -5,13 +5,13 @@
       <method name="add">
         <object class="ucar.unidata.data.grid.DodsGeoGridDataSource" id="id7">
           <property name="Name">
-            <string>dods://thredds.ucar.edu/thredds/dodsC/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20060417_1200.grib2</string>
+            <string>dods://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20060417_1200.grib2</string>
           </property>
           <property name="Properties">
             <object class="java.util.Hashtable">
               <method name="put">
                 <string>RESOLVERURL</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_80km/latest.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NAM/CONUS_80km/latest.xml</string>
               </method>
               <method name="put">
                 <string>datatypeid</string>

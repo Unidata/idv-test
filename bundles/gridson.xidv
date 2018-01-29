@@ -10,7 +10,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/grib/NCEP/GFS/Global_onedeg/GFS_Global_onedeg_20150407_1200.grib2</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/GFS/Global_onedeg/GFS_Global_onedeg_20150407_1200.grib2</string>
               </method>
             </object>
           </property>
@@ -45,7 +45,7 @@
             <object class="java.util.Hashtable">
               <method name="put">
                 <string>RESOLVERURL</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/Global_onedeg/files/latest.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/GFS/Global_onedeg/files/latest.xml</string>
               </method>
               <method name="put">
                 <string>name</string>
@@ -53,7 +53,7 @@
               </method>
               <method name="put">
                 <string>prop.service.wcs</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/Global_onedeg/files/GFS_Global_onedeg_20070504_1200.grib1</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/GFS/Global_onedeg/files/GFS_Global_onedeg_20070504_1200.grib1</string>
               </method>
               <method name="put">
                 <string>TITLE</string>
@@ -61,15 +61,15 @@
               </method>
               <method name="put">
                 <string>prop.service.ncserver</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/Global_onedeg/files/GFS_Global_onedeg_20070504_1200.grib1</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/GFS/Global_onedeg/files/GFS_Global_onedeg_20070504_1200.grib1</string>
               </method>
               <method name="put">
                 <string>Thredds.CatalogUrl</string>
-                <string>http://thredds.ucar.edu/thredds/catalog.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog.xml</string>
               </method>
               <method name="put">
                 <string>prop.service.http</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/Global_onedeg/files/GFS_Global_onedeg_20070504_1200.grib1</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/GFS/Global_onedeg/files/GFS_Global_onedeg_20070504_1200.grib1</string>
               </method>
             </object>
           </property>
@@ -152,7 +152,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20150407_1200.grib1</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20150407_1200.grib1</string>
               </method>
             </object>
           </property>
@@ -166,7 +166,7 @@
             <object class="java.util.Hashtable">
               <method name="put">
                 <string>RESOLVERURL</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_80km/files/latest.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NAM/CONUS_80km/files/latest.xml</string>
               </method>
               <method name="put">
                 <string>name</string>
@@ -174,7 +174,7 @@
               </method>
               <method name="put">
                 <string>prop.service.wcs</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_80km/files/NAM_CONUS_80km_20070504_1200.grib1</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NAM/CONUS_80km/files/NAM_CONUS_80km_20070504_1200.grib1</string>
               </method>
               <method name="put">
                 <string>TITLE</string>
@@ -182,15 +182,15 @@
               </method>
               <method name="put">
                 <string>prop.service.ncserver</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_80km/files/NAM_CONUS_80km_20070504_1200.grib1</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NAM/CONUS_80km/files/NAM_CONUS_80km_20070504_1200.grib1</string>
               </method>
               <method name="put">
                 <string>Thredds.CatalogUrl</string>
-                <string>http://thredds.ucar.edu/thredds/catalog.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog.xml</string>
               </method>
               <method name="put">
                 <string>prop.service.http</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_80km/files/NAM_CONUS_80km_20070504_1200.grib1</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NAM/CONUS_80km/files/NAM_CONUS_80km_20070504_1200.grib1</string>
               </method>
             </object>
           </property>
@@ -273,7 +273,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/grib/NCEP/RAP/CONUS_40km/RR_CONUS_40km_20150407_2000.grib2</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/RAP/CONUS_40km/RR_CONUS_40km_20150407_2000.grib2</string>
               </method>
             </object>
           </property>
@@ -287,7 +287,7 @@
             <object class="java.util.Hashtable">
               <method name="put">
                 <string>RESOLVERURL</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/RAP/CONUS_40km/files/latest.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/RAP/CONUS_40km/files/latest.xml</string>
               </method>
               <method name="put">
                 <string>name</string>
@@ -295,7 +295,7 @@
               </method>
               <method name="put">
                 <string>prop.service.wcs</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/RAP/CONUS_40km/files/RR_CONUS_40km_20070504_1800.grib1</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/RAP/CONUS_40km/files/RR_CONUS_40km_20070504_1800.grib1</string>
               </method>
               <method name="put">
                 <string>TITLE</string>
@@ -303,15 +303,15 @@
               </method>
               <method name="put">
                 <string>prop.service.ncserver</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/RAP/CONUS_40km/files/RR_CONUS_40km_20070504_1800.grib1</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/RAP/CONUS_40km/files/RR_CONUS_40km_20070504_1800.grib1</string>
               </method>
               <method name="put">
                 <string>Thredds.CatalogUrl</string>
-                <string>http://thredds.ucar.edu/thredds/catalog.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog.xml</string>
               </method>
               <method name="put">
                 <string>prop.service.http</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/RAP/CONUS_40km/files/RR_CONUS_40km_20070504_1800.grib1</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/RAP/CONUS_40km/files/RR_CONUS_40km_20070504_1800.grib1</string>
               </method>
             </object>
           </property>
@@ -394,7 +394,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/grib/NCEP/DGEX/CONUS_12km/DGEX_CONUS_12km_20150407_1800.grib2</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/DGEX/CONUS_12km/DGEX_CONUS_12km_20150407_1800.grib2</string>
               </method>
             </object>
           </property>
@@ -408,7 +408,7 @@
             <object class="java.util.Hashtable">
               <method name="put">
                 <string>RESOLVERURL</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/DGEX/CONUS_12km/files/latest.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/DGEX/CONUS_12km/files/latest.xml</string>
               </method>
               <method name="put">
                 <string>name</string>
@@ -416,7 +416,7 @@
               </method>
               <method name="put">
                 <string>prop.service.wcs</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/DGEX/CONUS_12km/files/DGEX_CONUS_12km_20070504_0600.grib2</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/DGEX/CONUS_12km/files/DGEX_CONUS_12km_20070504_0600.grib2</string>
               </method>
               <method name="put">
                 <string>TITLE</string>
@@ -424,15 +424,15 @@
               </method>
               <method name="put">
                 <string>prop.service.ncserver</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/DGEX/CONUS_12km/files/DGEX_CONUS_12km_20070504_0600.grib2</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/DGEX/CONUS_12km/files/DGEX_CONUS_12km_20070504_0600.grib2</string>
               </method>
               <method name="put">
                 <string>Thredds.CatalogUrl</string>
-                <string>http://thredds.ucar.edu/thredds/catalog.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog.xml</string>
               </method>
               <method name="put">
                 <string>prop.service.http</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/DGEX/CONUS_12km/files/DGEX_CONUS_12km_20070504_0600.grib2</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/DGEX/CONUS_12km/files/DGEX_CONUS_12km_20070504_0600.grib2</string>
               </method>
             </object>
           </property>
@@ -515,7 +515,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/grib/NCEP/NDFD/NWS/CONUS/CONDUIT/NDFD_NWS_CONUS_2p5km_20150407_2100.grib2</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/NDFD/NWS/CONUS/CONDUIT/NDFD_NWS_CONUS_2p5km_20150407_2100.grib2</string>
               </method>
             </object>
           </property>
@@ -529,7 +529,7 @@
             <object class="java.util.Hashtable">
               <method name="put">
                 <string>RESOLVERURL</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NDFD/NWS/CONUS/CONDUIT/latest.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NDFD/NWS/CONUS/CONDUIT/latest.xml</string>
               </method>
               <method name="put">
                 <string>name</string>
@@ -537,7 +537,7 @@
               </method>
               <method name="put">
                 <string>prop.service.wcs</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NDFD/NWS/CONUS/CONDUIT/NDFD_NWS_CONUS_2p5km_20070504_1800.grib2</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NDFD/NWS/CONUS/CONDUIT/NDFD_NWS_CONUS_2p5km_20070504_1800.grib2</string>
               </method>
               <method name="put">
                 <string>TITLE</string>
@@ -545,15 +545,15 @@
               </method>
               <method name="put">
                 <string>prop.service.ncserver</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NDFD/NWS/CONUS/CONDUIT/NDFD_NWS_CONUS_2p5km_20070504_1800.grib2</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NDFD/NWS/CONUS/CONDUIT/NDFD_NWS_CONUS_2p5km_20070504_1800.grib2</string>
               </method>
               <method name="put">
                 <string>Thredds.CatalogUrl</string>
-                <string>http://thredds.ucar.edu/thredds/catalog.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog.xml</string>
               </method>
               <method name="put">
                 <string>prop.service.http</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NDFD/NWS/CONUS/CONDUIT/NDFD_NWS_CONUS_2p5km_20070504_1800.grib2</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NDFD/NWS/CONUS/CONDUIT/NDFD_NWS_CONUS_2p5km_20070504_1800.grib2</string>
               </method>
             </object>
           </property>
@@ -636,7 +636,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/grib/NCEP/GFS/CONUS_80km/GFS_CONUS_80km_20150407_1200.grib1</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/GFS/CONUS_80km/GFS_CONUS_80km_20150407_1200.grib1</string>
               </method>
             </object>
           </property>
@@ -650,7 +650,7 @@
             <object class="java.util.Hashtable">
               <method name="put">
                 <string>RESOLVERURL</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/CONUS_80km/latest.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/GFS/CONUS_80km/latest.xml</string>
               </method>
               <method name="put">
                 <string>name</string>
@@ -658,7 +658,7 @@
               </method>
               <method name="put">
                 <string>prop.service.wcs</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/CONUS_80km/GFS_CONUS_80km_20070504_1200.nc</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/GFS/CONUS_80km/GFS_CONUS_80km_20070504_1200.nc</string>
               </method>
               <method name="put">
                 <string>TITLE</string>
@@ -666,15 +666,15 @@
               </method>
               <method name="put">
                 <string>prop.service.ncserver</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/CONUS_80km/GFS_CONUS_80km_20070504_1200.nc</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/GFS/CONUS_80km/GFS_CONUS_80km_20070504_1200.nc</string>
               </method>
               <method name="put">
                 <string>Thredds.CatalogUrl</string>
-                <string>http://thredds.ucar.edu/thredds/catalog.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog.xml</string>
               </method>
               <method name="put">
                 <string>prop.service.http</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/CONUS_80km/GFS_CONUS_80km_20070504_1200.nc</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/GFS/CONUS_80km/GFS_CONUS_80km_20070504_1200.nc</string>
               </method>
             </object>
           </property>
@@ -757,7 +757,7 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20150407_1200.grib1</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20150407_1200.grib1</string>
               </method>
             </object>
           </property>
@@ -771,7 +771,7 @@
             <object class="java.util.Hashtable">
               <method name="put">
                 <string>RESOLVERURL</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_80km/latest.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NAM/CONUS_80km/latest.xml</string>
               </method>
               <method name="put">
                 <string>name</string>
@@ -779,7 +779,7 @@
               </method>
               <method name="put">
                 <string>prop.service.wcs</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20070504_1200.nc</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20070504_1200.nc</string>
               </method>
               <method name="put">
                 <string>TITLE</string>
@@ -787,15 +787,15 @@
               </method>
               <method name="put">
                 <string>prop.service.ncserver</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20070504_1200.nc</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20070504_1200.nc</string>
               </method>
               <method name="put">
                 <string>Thredds.CatalogUrl</string>
-                <string>http://thredds.ucar.edu/thredds/catalog.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog.xml</string>
               </method>
               <method name="put">
                 <string>prop.service.http</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20070504_1200.nc</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20070504_1200.nc</string>
               </method>
             </object>
           </property>

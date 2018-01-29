@@ -7,18 +7,18 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20060417_1200.nc</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20060417_1200.nc</string>
               </method>
             </object>
           </property>
           <property name="Name">
-            <string>http://thredds.ucar.edu/thredds/dodsC/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20060417_1200.nc</string>
+            <string>http://THREDDS-DOMAIN/thredds/dodsC/grib/NCEP/NAM/CONUS_80km/NAM_CONUS_80km_20060417_1200.nc</string>
           </property>
           <property name="Properties">
             <object class="java.util.Hashtable">
               <method name="put">
                 <string>RESOLVERURL</string>
-                <string>http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_80km/latest.xml</string>
+                <string>http://THREDDS-DOMAIN/thredds/catalog/grib/NCEP/NAM/CONUS_80km/latest.xml</string>
               </method>
               <method name="put">
                 <string>datatypeid</string>
@@ -60,7 +60,7 @@
               <property name="FilePaths">
                 <object class="java.util.ArrayList">
                   <method name="add">
-                    <string>dods://thredds.ucar.edu/cgi-bin/dods/DODS-3.2.1/nph-dods/dods/model/2004051812_eta_211.nc</string>
+                    <string>dods://THREDDS-DOMAIN/cgi-bin/dods/DODS-3.2.1/nph-dods/dods/model/2004051812_eta_211.nc</string>
                   </method>
                 </object>
               </property>

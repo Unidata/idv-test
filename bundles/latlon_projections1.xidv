@@ -10,12 +10,12 @@
           <property name="Sources">
             <object class="java.util.ArrayList">
               <method name="add">
-                <string>http://thredds.ucar.edu/thredds/dodsC/casestudies/vgee_demo/revOceanDJF2.nc</string>
+                <string>http://THREDDS-DOMAIN/thredds/dodsC/casestudies/vgee_demo/revOceanDJF2.nc</string>
               </method>
             </object>
           </property>
           <property name="Name">
-            <string>http://thredds.ucar.edu/thredds/dodsC/casestudies/vgee_demo/revOceanDJF2.nc</string>
+            <string>http://THREDDS-DOMAIN/thredds/dodsC/casestudies/vgee_demo/revOceanDJF2.nc</string>
           </property>
           <property name="Descriptor">
             <object class="ucar.unidata.data.DataSourceDescriptor">
