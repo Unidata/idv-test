@@ -11,6 +11,17 @@ if [ -z "$THREDDS_DOMAIN" ];
       THREDDS_DOMAIN="thredds.ucar.edu"
 fi
 
+if [ -n "$NIGHTLY_BUILD" ];
+  then
+      curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/idv.jar -o $IDV_HOME/IDV/idv.jar
+      curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/auxdata.jar -o $IDV_HOME/IDV/auxdata.jar
+      curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/external.jar -o $IDV_HOME/IDV/external.jar
+      curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/jython.jar -o $IDV_HOME/IDV/jython.jar
+      curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/local-visad.jar -o $IDV_HOME/IDV/local-visad.jar
+      curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/visad.jar -o $IDV_HOME/IDV/visad.jar
+      curl -SL https://www.unidata.ucar.edu/software/idv/nightly/webstart/IDV/ncIdv.jar -o $IDV_HOME/IDV/ncIdv.jar
+fi
+
 # Grab test data
 curl -SL http://motherlode.ucar.edu/repository/entry/get/RAMADDA/IDV%20Community%20Resources/Test%20Data/data.tar.bz2?entryid=f024f354-6cca-45ba-aac5-e06143db5b54 -o /tmp/data.tar.bz2
 
